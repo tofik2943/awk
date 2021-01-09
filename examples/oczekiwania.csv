@@ -1,0 +1,5 @@
+﻿dane wejsciowe:;. ;1. 1.  ;  ;;,],;],;;,,;[,;.,;.],
+;;;;;;;;;;;
+;;DALSZE GSUB MUSI BYĆ ODKOMENTOWANY ŻEBY DZIALALO;ZAKOMENTOWANY;;;;;;;;
+chce żeby było:;.0 ;1.0, 1.0,;,;;];];;,;[;,;]
+;;;;;;;;;;;"DLACZEGO {gsub(my_regex, "","", $0)} WPLYWA NA TO POLE. DO TESTOWANIA TEGO ZACHOWANIA WYPADALOBY ZAKOMENTOWAC WSZYSTKIE INnE GSUB"
